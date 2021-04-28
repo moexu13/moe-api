@@ -1,0 +1,20 @@
+{
+  "name": "site-api",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Melissa Albarella <moexu13@gmail.com>",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "start": "./bin/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-errors": "^1.8.0",
+    "pino": "^6.11.3",
+    "pino-http": "^5.5.0",
+    "pino-pretty": "^4.7.1"
+  }
+}
