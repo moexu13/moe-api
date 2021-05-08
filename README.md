@@ -26,11 +26,11 @@ Clone the repository and create an empty database. Copy .env.sample to .env and 
 Tests are written in Jest - run `npm test` to run them.
 
 ## Routes
-GET `/projects` returns a list of all projects.
-POST `/projects` adds a new project (requires authentication)
-GET `/projects/:projectId` returns the details of an individual project
-PUT `/projects/:projectId` updates a project (requires authentication)
-DELETE `/projects/:projectId` deletes a project (requires authentication)
+* GET `/projects` returns a list of all projects.
+* POST `/projects` adds a new project (requires authentication)
+* GET `/projects/:projectId` returns the details of an individual project
+* PUT `/projects/:projectId` updates a project (requires authentication)
+* DELETE `/projects/:projectId` deletes a project (requires authentication)
 
 ## Todos
 * Write tests
