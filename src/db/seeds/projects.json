@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "project 1",
+    "image_url": "screenshot1.jpg",
+    "description": "This was a fun project",
+    "github_link": "https://github.com",
+    "live_link": "https://netlify.com"
+  },
+  {
+    "id": 2,
+    "name": "project 2",
+    "image_url": "screenshot2.jpg",
+    "description": "This was not a fun project",
+    "github_link": "https://github.com",
+    "live_link": "https://netlify.com"
+  }
+]
